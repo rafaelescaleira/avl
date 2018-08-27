@@ -35,11 +35,12 @@ Desempenho da Árvore AVL
 
 A complexidade das principais operações de conjuntos usando árvore AVL:
 
-* Inserir : O(log n);
-* Remover : O(log n);
-* Pertence : O(log n);
-* União : O(n.log n);
-* Interseção : O(n.log n).
+| Algoritmo | Caso Médio | Pior Caso |
+| --------- |:----------:|:---------:|
+| Espaço | O (n) | O (n) |
+| Busca | O (log n) | O (log n) |
+| Inserção | O (log n) | O (log n) |
+| Remoção | O (log n) | O (log n) |
 
 Execução do Programa (Teste)
 ----------------------------
