@@ -1,5 +1,9 @@
 Árvore AVL (Genérica)
 =====================
+
+![Build](https://img.shields.io/gitlab/pipeline/rafaelescaleira/avl.svg)
+![License](https://img.shields.io/github/license/rafaelescaleira/avl.svg)
+
 Esse repositório possui funções implementadas em linguagem C.
 Segue a lista das funções :
 
